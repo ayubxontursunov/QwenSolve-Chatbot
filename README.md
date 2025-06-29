@@ -82,7 +82,7 @@ python chatbot.py
 ## 🧪 Example Questions
 - Solve: 3x + 2 = 11
 
-- Derivative of: x^2 + 3x
+- Derivative of: $$ x^{2} + 3x $$
 
 - Factor: x^2 - 9
 
