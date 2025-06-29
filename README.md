@@ -82,9 +82,9 @@ python chatbot.py
 ## 🧪 Example Questions
 - Solve: 3x + 2 = 11
 
-- Derivative of: $$ x^{2} + 3x $$
+- Derivative of: x² + 3x
 
-- Factor: x^2 - 9
+- Factor: x² - 9
 
 - Evaluate: sqrt(144)
 
